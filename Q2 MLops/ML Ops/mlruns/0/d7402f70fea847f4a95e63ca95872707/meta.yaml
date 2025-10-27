@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d7402f70fea847f4a95e63ca95872707/artifacts
+end_time: 1761483524284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7402f70fea847f4a95e63ca95872707
+run_name: unleashed-duck-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761483508930
+status: 3
+tags: []
+user_id: vaibhav

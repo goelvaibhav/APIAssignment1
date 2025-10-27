@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-c3109f2b600c4d05a6625b7745f10387/artifacts
+creation_timestamp: 1761484613287
+experiment_id: '532412501397203302'
+last_updated_timestamp: 1761484621603
+model_id: m-c3109f2b600c4d05a6625b7745f10387
+model_type: ''
+name: knn
+source_run_id: fe044b2c652c496db1c774492fc0e5e7
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+# Dockerfile
+FROM python:3.10-slim
+
+WORKDIR /assigment
+COPY . /assigment
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+EXPOSE 8501  # streamlit default
+
+ENV STREAMLIT_SERVER_HEADLESS true
+ENV PYTHONUNBUFFERED=1
+
+CMD ["bash", "-lc", "python pipeline_scheduler.py & streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0"]

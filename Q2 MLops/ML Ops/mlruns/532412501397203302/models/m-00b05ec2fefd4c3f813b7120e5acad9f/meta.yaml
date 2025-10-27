@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-00b05ec2fefd4c3f813b7120e5acad9f/artifacts
+creation_timestamp: 1761484558340
+experiment_id: '532412501397203302'
+last_updated_timestamp: 1761484566690
+model_id: m-00b05ec2fefd4c3f813b7120e5acad9f
+model_type: ''
+name: random_forest
+source_run_id: 2dae4b39f7c945cb9f6025bdf1278d4e
+status: 2
+status_message: null

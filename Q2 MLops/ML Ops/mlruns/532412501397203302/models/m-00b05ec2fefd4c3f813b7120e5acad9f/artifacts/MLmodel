@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-00b05ec2fefd4c3f813b7120e5acad9f/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-00b05ec2fefd4c3f813b7120e5acad9f
+model_size_bytes: 2229662
+model_uuid: m-00b05ec2fefd4c3f813b7120e5acad9f
+prompts: null
+run_id: 2dae4b39f7c945cb9f6025bdf1278d4e
+utc_time_created: '2025-10-26 13:15:58.557530'

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-16b1dad7079e41ca8dd59a0ce203f825/artifacts
+creation_timestamp: 1761484622705
+experiment_id: '532412501397203302'
+last_updated_timestamp: 1761484628116
+model_id: m-16b1dad7079e41ca8dd59a0ce203f825
+model_type: ''
+name: naive_bayes
+source_run_id: 19721555bab34b6dabee20ab0b37a641
+status: 2
+status_message: null

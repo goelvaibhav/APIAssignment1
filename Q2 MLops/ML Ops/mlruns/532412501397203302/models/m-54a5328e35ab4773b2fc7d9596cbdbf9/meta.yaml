@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-54a5328e35ab4773b2fc7d9596cbdbf9/artifacts
+creation_timestamp: 1761484575998
+experiment_id: '532412501397203302'
+last_updated_timestamp: 1761484583836
+model_id: m-54a5328e35ab4773b2fc7d9596cbdbf9
+model_type: ''
+name: svm
+source_run_id: c072834b5ee84c04b2e210032ac39b7b
+status: 2
+status_message: null

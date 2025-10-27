@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/42d7c4802df34755818a688aa831bfb1/artifacts
+end_time: 1761483574296
+entry_point_name: ''
+experiment_id: '532412501397203302'
+lifecycle_stage: active
+run_id: 42d7c4802df34755818a688aa831bfb1
+run_name: thundering-shrew-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761483561021
+status: 3
+tags: []
+user_id: vaibhav

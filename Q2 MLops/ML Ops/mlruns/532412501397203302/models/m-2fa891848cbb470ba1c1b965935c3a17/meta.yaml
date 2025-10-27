@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-2fa891848cbb470ba1c1b965935c3a17/artifacts
+creation_timestamp: 1761483563465
+experiment_id: '532412501397203302'
+last_updated_timestamp: 1761483572991
+model_id: m-2fa891848cbb470ba1c1b965935c3a17
+model_type: ''
+name: logistic_regression
+source_run_id: 42d7c4802df34755818a688aa831bfb1
+status: 2
+status_message: null

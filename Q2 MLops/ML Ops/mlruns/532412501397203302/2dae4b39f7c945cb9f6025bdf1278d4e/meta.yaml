@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/2dae4b39f7c945cb9f6025bdf1278d4e/artifacts
+end_time: 1761484566727
+entry_point_name: ''
+experiment_id: '532412501397203302'
+lifecycle_stage: active
+run_id: 2dae4b39f7c945cb9f6025bdf1278d4e
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761484557575
+status: 3
+tags: []
+user_id: vaibhav

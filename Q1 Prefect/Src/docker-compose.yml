@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  pipeline_app:
+    build: .
+    container_name: data_pipeline_app
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8501:8501"
+    environment:
+      - PIPELINE_DB=sqlite:///pipeline_logs.db

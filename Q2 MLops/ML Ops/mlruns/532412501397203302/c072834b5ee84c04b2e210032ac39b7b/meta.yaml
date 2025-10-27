@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/c072834b5ee84c04b2e210032ac39b7b/artifacts
+end_time: 1761484583881
+entry_point_name: ''
+experiment_id: '532412501397203302'
+lifecycle_stage: active
+run_id: c072834b5ee84c04b2e210032ac39b7b
+run_name: svm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761484575407
+status: 3
+tags: []
+user_id: vaibhav

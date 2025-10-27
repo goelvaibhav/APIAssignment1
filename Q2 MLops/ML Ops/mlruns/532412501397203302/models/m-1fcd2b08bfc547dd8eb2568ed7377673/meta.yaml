@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/models/m-1fcd2b08bfc547dd8eb2568ed7377673/artifacts
+creation_timestamp: 1761484567570
+experiment_id: '532412501397203302'
+last_updated_timestamp: 1761484575182
+model_id: m-1fcd2b08bfc547dd8eb2568ed7377673
+model_type: ''
+name: decision_tree
+source_run_id: d08f9fd490a545ffafcc3e47b2b9abfc
+status: 2
+status_message: null

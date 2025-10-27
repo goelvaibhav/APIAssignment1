@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/vaibhav/Documents/aws%20-%20bits/MLops/project/mlruns/532412501397203302/fac21eca662d417cbcf9e9ba44e59c1f/artifacts
+end_time: 1761484557326
+entry_point_name: ''
+experiment_id: '532412501397203302'
+lifecycle_stage: active
+run_id: fac21eca662d417cbcf9e9ba44e59c1f
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761484545791
+status: 3
+tags: []
+user_id: vaibhav
